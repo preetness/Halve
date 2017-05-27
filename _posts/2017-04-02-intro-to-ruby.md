@@ -53,7 +53,7 @@ nil.class
 Let's look at some simple examples of code in Ruby, with different classes:
 
 ```ruby
-number = 5 # Notice that we don't need to explicitly need to use `var` in front of the variable name
+number = 5 # Notice that we don't need to explicitly use `var` in front of the variable name
 
 name = 'Preet'
 name.length
