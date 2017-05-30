@@ -40,6 +40,6 @@ hello.length
 # => 2
 ```
 
-We want to create classes in our programs, to allow for flexibility and to adhere to the design principle of 'single responsibility'. 
+We want to create classes in our programs, to allow for flexibility and to adhere to the design principle of 'single responsibility'. Each classes should have one responsibility only, just as Ruby methods should have only one task they are responsible for. This sort of modularity is the key to writing scalable, efficient applications that are easier to maintain as they grow in size. 
 
 (To be continued...)
